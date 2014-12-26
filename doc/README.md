@@ -1,5 +1,3 @@
 # Catch me
 
 ## Specification
-
-test
